@@ -35,4 +35,4 @@ Passwords are **redacted**! You’ll need to solve the challenges yourself—tru
 🚧 = In Progress <br>
 ❌ = Not Started  <br>
 
-Created by [Ouba](github.com/setyanoegraha) 
+Created by [Ouba](https://github.com/setyanoegraha) 
