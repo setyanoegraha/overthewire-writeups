@@ -1,1 +1,3 @@
-*.pass.txt
+*.*pass.txt
+
+*raw*.md
